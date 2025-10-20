@@ -4,6 +4,8 @@ I'm Vladimir Ulianitsky, Backend Engineer at Profitero specializing in Ruby & Py
 
 ![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvlad7&show_icons=true&theme=tokyonight)
 
+My CV is [here](./CV.pdf)
+
 - 🔭 My open source projects are:
   - [`json_scanner`](https://github.com/uvlad7/json_scanner) - a Ruby gem with a C native extension that uses the [`yajl`](https://github.com/lloyd/yajl) library to efficiently find and parse parts of large JSON strings.
   - [`ffi-llvm-jit`](https://github.com/uvlad7/ffi-llvm-jit) - a Ruby gem that leverages LLVM to boost FFI calls performance.
