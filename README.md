@@ -2,7 +2,7 @@
 
 I'm Vladimir Ulianitsky, a Mid-Level Ruby Engineer, passionate Rubyist and open-source developer. I love to explore other languages and have a keen interest in Ruby cross-language interoperability, I used C, C++, Rust to create Ruby gems and am also familiar with Golang
 
-![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvlad7&show_icons=true&theme=tokyonight)
+<!-- ![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvlad7&show_icons=true&theme=tokyonight) --> 
 
 - 🔭 My open source projects are:
   - [`json_scanner`](https://github.com/uvlad7/json_scanner) - a Ruby gem with a C native extension that uses the [`yajl`](https://github.com/lloyd/yajl) library to efficiently find and parse parts of large JSON strings.
